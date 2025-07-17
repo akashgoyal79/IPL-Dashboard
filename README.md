@@ -2,7 +2,7 @@
 ## 🌍 Live Demo
 
 You can view the deployed project here:  
-🔗 []()
+🔗 [https://ipl-dashboard-lake.vercel.app/](https://ipl-dashboard-lake.vercel.app/)
 
 
 ## 📦 Getting Started
